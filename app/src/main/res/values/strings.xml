@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ElectricityBillEstimator</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_rebate_percentage_0_5">Enter rebate percentage (0-5%)</string>
+    <string name="enter_electricity_units_used_kwh">Enter electricity units used (kWh)</string>
+    <string name="electricity_bill_estimator">Electricity Bill Estimator</string>
+</resources>
